@@ -1,6 +1,7 @@
 # CRIME-VISION 
 Advanced Crime Classification With Deep Learning
 Crime Vision is a deep learning model that utilizes the Densenet121 architecture to predict crime types based on input images. This model is designed to assist law enforcement agencies, security organizations, and researchers in identifying and categorizing crime scenes.
+- Demo Video: https://drive.google.com/file/d/1DVFUZD6qXZTbewMP2s9hM09xMFTQ06YL/view?usp=sharing
 
 ## Installation
 
@@ -33,6 +34,9 @@ Crime Vision utilizes the Densenet121 architecture as its backbone. Densenet121 
 
 The model is composed of convolutional layers, followed by dense blocks, transition layers, and a global average pooling layer. The final output layer uses softmax activation to produce the predicted probabilities for each crime type.
 ![image](https://github.com/harsh-kashyap0201/crime-vision/assets/77957756/24c3adab-c2d9-4c0e-a1ac-811bc9319c0c)
+
+## Demo Video: 
+https://github.com/harsh-kashyap0201/crime-vision/assets/77957756/4462b38b-c59e-4fcd-89c9-0fb00b8041e9
 
 ## Web application screenshots 
 ![image](https://github.com/harsh-kashyap0201/crime-vision/assets/77957756/c5f239c5-1acf-408d-b6c3-9c289a62957f)
