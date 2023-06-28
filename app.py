@@ -42,7 +42,7 @@ def predict():
         x=np.expand_dims(x,axis=0)  #expanding the dimensions
         pred=np.argmax(model.predict(x))
         op=['Fighting','Arrest','Vandalism','Assault','Stealing','Arson','NormalVideos','Abuse','Explosion','Robbery','Burglary','Shooting','Shoplifting','RoadAccidents']
-        result = 'the predicted class is '+str(op[pred])           # Convert to string
+        result = 'The Predicted Crime Type is '+str(op[pred])           # Convert to string
     return render_template("predict.html", prediction_text=result)  # Return the result to the frontend
 
 if __name__ == '__main__':
