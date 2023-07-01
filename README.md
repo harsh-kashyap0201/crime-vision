@@ -44,3 +44,4 @@ https://github.com/harsh-kashyap0201/crime-vision/assets/77957756/4462b38b-c59e-
 
 ## Contributing
 Contributions to Crime Vision are welcome! If you want to contribute to this project, please follow the
+# SPSGP-523684-Crime-Vision-Advanced-Crime-Classification-with-Deep-Learning
